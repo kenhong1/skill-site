@@ -1,0 +1,107 @@
+#aboutMe{
+    background-image: url("./aboutMe.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center; 
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+#index{
+    background-image: url("./1549603466597.jpg");
+    background-size: cover;   
+}
+
+#mainForm{
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 22px;
+    text-align: center;
+}
+
+#contactMe{
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 22px;
+    text-align: center;
+}
+
+#skillsImg{
+    background-image: url("./skills.jpg"); 
+    background-size: cover;
+}
+
+#mySkillsBox{
+    margin: 0 auto;
+    position: relative;
+    width: 15em;
+    top: 5em;
+    text-emphasis: center;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 22px;
+}
+
+#list{
+    list-style-type: none;
+    text-align: center;
+}
+
+
+#bioBox{
+    left: 14em;
+    position: absolute;
+    width: 30em;
+    height: 10em;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 22px;
+}
+
+#kenneth{
+    font-family: 'Nothing You Could Do', cursive;
+    position: absolute;
+    left: 550px; 
+    font-size: 35px;
+}
+
+#sungi{
+    font-family: 'Nothing You Could Do', cursive;
+    position: absolute;
+    left: 700px; 
+    top: 60px;
+    font-size: 35px;
+}
+
+#hong{
+    font-family: 'Nothing You Could Do', cursive;
+    position: absolute;
+    left: 800px; 
+    top: 100px;
+    font-size: 35px;
+}
+
+#control{
+    text-align: center;
+    font-family: 'Nothing You Could Do', cursive;
+    height: 9em;
+    position: relative; 
+    bottom: 11em;
+
+}
+
+#gaTag{
+    text-align: center; 
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 20px;
+    top: 200px; 
+    height: 10em;
+    top: 9em;
+    position: relative;
+
+}
+
+#welcome{
+    text-align: center; 
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 20px;
+    height: 10em;
+    top: -.5em;
+    position: relative;
+}
